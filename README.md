@@ -67,3 +67,4 @@ Esses desafios foram criados para aprofundar o entendimento de conceitos essenci
 ---
 
 ## 🎓 Certificado
+![image](https://github.com/user-attachments/assets/6a8e37a6-271c-4dd6-9c6d-817b10d8ef07)
